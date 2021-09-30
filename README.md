@@ -53,7 +53,7 @@ Using a `<label>` with the title inside allows toggling the checkbox.
   <div class="accordion-item-header">
     <label for="item1">
       <span>How many team members can I invite?</span>
-      <div class="incon-arrow-down"></div>
+      <span class="incon-arrow-down"></span>
     </label>
   </div>
   <div class="accordion-item-body">
