@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/exenestecnico/fm-faq-accordion](https://github.com/exenestecnico/fm-faq-accordion)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://exenestecnico.github.io/fm-faq-accordion/](https://exenestecnico.github.io/fm-faq-accordion/)
 
 ## My process
 
@@ -81,5 +81,5 @@ Then the **CSS** uses the *checked* state of the checkbox to modify the item hea
 
 ## Author
 
-- freeCodeCamp - [@haxor](https://www.freecodecamp.org/haxor)
 - Frontend Mentor - [@evilhaxor](https://www.frontendmentor.io/profile/evilhaxor)
+- freeCodeCamp - [@haxor](https://www.freecodecamp.org/haxor)
